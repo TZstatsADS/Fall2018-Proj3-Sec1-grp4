@@ -37,18 +37,16 @@ Our **task** for this project is to
 
 Project leader:
 
-Yiqiao Yin：Designed and organized the structure of whole project. Built the baseline model and the linear regression model.  Helped debugging through the whole project. Also prepared the presentation slide.
-
-Major contributor:
-
-Anke Xu : Build and optimized xgboost model and linear regression model. Tuning parameters for the xgboost model and baseline model. Also helped to make the presentation slide.
-
-Chuqiao Rong: Code feature.R and superResolution.R files. Tuning parameters for the baseline model. Make the presentation slide and presented the project.
-
-Amon Tokoro: Helped debugging for the whole project. Tuning parameters for the baseline model. Trained the improved model.
+Yiqiao Yin：Designed and organized the structure of whole project. Built the baseline model and initiated linear regression model.  Trained the baseline model. Helped debugging through the whole project. Also helped making the presentation slide.
 
 
-Yadir Lakehal: Edit the readme file and helped the presenter with the presentation. Helped to make the presentation slide. Tuning parameters for the baseline model. 
+Anke Xu: Built and optimized XGBoost model and built linear regression model. Tuned parameters for the XGBoost model and baseline model. Trained the improved models. Helped debugging the baseline model. Also helped to make the presentation slide.
+
+Chuqiao Rong: Coded feature.R and superResolution.R files. Tuned parameters for the baseline model. Made the presentation slide and presented the project.
+
+Amon Tokoro: Helped debugging for the whole project. Tuned parameters for the baseline model and XGBoost model. Trained the improved models.
+
+Yadir Lakehal: Tuned parameters for the baseline model and made efforts on linear model. Edited the readme file and helped the presenter with the presentation. Helped to make the presentation slide. 
 
 
 We also want to thank Professor Ying Liu and Professor Tian Zheng for hosting lectures of Advanced Data Science this semester. It is with transcending gratitude that we announce here what an inspiration both professors have been throughout our experience of building this shiny app. Their knowledge, understanding and genuine “care” for others is illuminated in everything they do! We, Group 4, are in forever debt for their teachings. Moreoever, we also want to thank to TA, Chengliang Tang. There is not enough we can say about how much we thank heaven that he is our teaching assistance. His patience and understanding are unsurpassed. We are grateful for being his students.
