@@ -40,7 +40,7 @@ Project leader:
 Yiqiao Yin：Designed and organized the structure of whole project. Built the baseline model and initiated linear regression model.  Trained the baseline model. Helped debugging through the whole project. Also helped making the presentation slide.
 
 
-Anke Xu: Built and optimized XGBoost model and built linear regression model. Tuned parameters for the XGBoost model and baseline model. Trained the improved models. Helped debugging the baseline model. Also helped to make the presentation slide.
+Anke Xu: Built and optimized XGBoost model and built linear model. Tuned parameters for the XGBoost model and baseline model. Trained the improved models. Helped debugging the baseline model. Also helped to make the presentation slide.
 
 Chuqiao Rong: Coded feature.R and superResolution.R files. Tuned parameters for the baseline model. Made the presentation slide and presented the project.
 
